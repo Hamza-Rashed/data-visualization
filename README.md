@@ -1,6 +1,6 @@
 # data-visulization
 
-* what's happining *
+** what's happining **
 * Optionally use dataset built into Seaborn
 * Load the data you receive into a Pandas DataFrame
 Analyze dataset
