@@ -1,7 +1,5 @@
 # data-visulization
 
-[PR]()
-
 *** what's happining ***
 * Optionally use dataset built into Seaborn
 * Load the data you receive into a Pandas DataFrame
